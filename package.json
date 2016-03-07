@@ -17,6 +17,6 @@
   "license": "MIT",
   "dependencies": {
     "bluebird": "^3.3.1",
-    "tmp": "0.0.28"
+    "tmp": "git+https://github.com/whmountains/node-tmp.git"
   }
 }
